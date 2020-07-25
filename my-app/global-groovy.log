@@ -1,0 +1,21 @@
+2020-07-23 20:26:06,286 INFO  [log] Anoop
+2020-07-23 20:26:06,288 INFO  [log] Proceed to Delete
+2020-07-23 20:26:07,262 INFO  [log] Script execution done
+2020-07-23 20:26:28,028 INFO  [log] No of rows = 5
+2020-07-23 20:26:28,029 INFO  [log] No of columns = 2
+2020-07-23 20:26:28,034 INFO  [log] firstname
+2020-07-23 20:26:28,037 INFO  [log] Anoop
+2020-07-23 20:26:28,037 INFO  [log] lastname
+2020-07-23 20:26:28,037 INFO  [log] P
+2020-07-23 20:26:28,038 INFO  [log] email
+2020-07-23 20:26:28,038 INFO  [log] anoop@test.com
+2020-07-23 20:26:28,039 INFO  [log] authorization
+2020-07-23 20:26:28,040 INFO  [log] bearer f0rf13pxtxp7mftwc23rq6e52yvmi5um
+2020-07-23 20:26:36,708 INFO  [log] No of rows = 5
+2020-07-23 20:26:36,708 INFO  [log] No of columns = 3
+2020-07-23 20:26:44,271 INFO  [log] Number of test steps executed in TC1 = 6
+2020-07-23 20:26:51,498 INFO  [log] Number of test steps executed in TC2 = 6
+2020-07-23 20:26:51,509 INFO  [log] Number of Total test steps executed = 12
+2020-07-23 20:26:58,980 INFO  [log] Number of test steps executed in TC1 = 6
+2020-07-23 20:27:06,537 INFO  [log] Number of test steps executed in TC2 = 6
+2020-07-23 20:27:06,538 INFO  [log] Number of Total test steps executed = 12
